@@ -1,0 +1,31 @@
+
+
+label{
+    background-color:darkturquoise;
+    font-size: 40px;
+    font-family:inherit;
+    color:black;
+    margin: 10px;
+}
+    
+}
+.background23{
+    width: 70%;
+    height: 60vh;
+    background-color: cadetblue;
+    margin:20px;
+    
+}
+
+button{
+    border-color: darkcyan ;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color:azure;
+    background-color:chocolate;
+    height: 50px;
+    width:200px;
+    border-width: 6px;
+    margin: 10px;
+    font-size: 25px;
+}
